@@ -1,6 +1,6 @@
-# Red Angel Music
+# SkylarPlayz348 Music
 
-## The Team
+## The Dev Team
 ### Sky
 <p align="left">
 <a href="https://github.com/SkylarPlayz348">
