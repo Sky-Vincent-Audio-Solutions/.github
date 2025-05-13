@@ -1,4 +1,3 @@
-![Logo](sky-vincent-music-high-resolution-logo.png)
 ## The Dev Team
 ### Sky
 <p align="left">
